@@ -1,0 +1,6 @@
+AI202,New York,London,50
+AI305,London,Paris,20
+AI401,Tokyo,New York,15
+AI101,New York,Dubai,0
+AI505,Sydney,London,10
+AI203,Mumbai,New York,25
